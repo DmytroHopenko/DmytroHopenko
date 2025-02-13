@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working at Appexoft<br>🌐 I provide freelance services<br>🧑‍💻 I am passionate about and studying my field over then 5 years<br>⭐️ My favourite framework for web is NEXT.JS
+💻 I’m currently working at Appexoft<br>🌐 I provide freelance services<br>🧑‍💻 I am passionate about and studying my field over then 5 years<br>⭐️ My favourite frameworks for web are NEXT.JS and NEST.JS
 
 
 ## 🌐 Socials:
