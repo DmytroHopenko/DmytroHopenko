@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I provide freelance services<br>🧑‍💻 I am passionate about and studying my field over then 5 years<br>⭐️ My favourite frameworks for web are NEXT.JS and NEST.JS<br>👨‍💻 Working with clients from US & EU market<br>🤝 Open to partnerships
+🌐 I provide freelance services<br>🧑‍💻 I am passionate about and studying my field over then 5 years<br>⭐️ My favourite frameworks for web are NEXT.JS and NEST.JS<br>👨‍💻 Working with clients from US & EU<br>🤝 Open to partnerships
 
 
 ## 🌐 Socials:
